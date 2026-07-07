@@ -1,5 +1,3 @@
-# afshop-hypercar-ecommerce-wordpress
-
 # AFSHOP - Hypercar E-commerce Website (Free WordPress.com)
 
 ## Description
